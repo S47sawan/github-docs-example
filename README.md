@@ -75,7 +75,7 @@ Emojis
  - :cloud:
  - :computer:
 
-## *Using Tables*
+## *Using Tables* <sup>[3]</sup>
 You can create tables with pipes <span>&#x007C;</span> and hypens - .
 
 Hyphens are used to create each column header , while pipes separate each column.
@@ -97,3 +97,4 @@ Table
 - [Basic writing and formatting syntax (Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) <sup>[1]</sup>
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) <sup>[2]</sup>
+- [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) <sup>[3]</sup>
