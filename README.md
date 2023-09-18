@@ -76,7 +76,9 @@ Emojis
  - :computer:
 
 ## *Using Tables*
-You can create tables with pipes <span>&#x007C;</span> and hypens - 
+You can create tables with pipes <span>&#x007C;</span> and hypens - .
+
+Hyphens are used to create each column header , while pipes separate each column.
 
 Code
 ````markdown
